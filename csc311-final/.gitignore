@@ -1,0 +1,6 @@
+__pycache__
+!writeup.tex
+!writeup.pdf
+writeup*
+.DS_Store
+part_a/data
